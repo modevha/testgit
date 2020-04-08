@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-MHA1380 was happy then
->>>>>>> 1a3e3e4c690212358f31a031250c1630b8c10847
+MHA1380 is happy
+
